@@ -6,9 +6,15 @@ module.exports = {
     ],
     themeConfig: {
         nav: [
-          { text: 'Home', link: '/' },
-          { text: 'Guide', link: '/about/' },
-          { text: 'External', link: 'https://google.com' },
+          { text: '首页', link: '/' },
+          { text: 'CSS', link: '/css/' },
+          { text: 'JavaScript', link: '/javascript/' },
+          { text: 'Vue', link: '/vue/' },
+          { text: 'React', link: '/react/' },
+          { text: 'MySQL', link: '/mysql/' },
+          { text: 'Node', link: '/node/' },
+          { text: '面试集锦', link: '/interview/' },                   
+          { text: '鸡零狗碎', link: '/other/' },                   
         ]
       }
   }
